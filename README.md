@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratyush3
 - 👀 I’m interested in Computer programming
-- 🌱 I’m currently trying to learn Js, C, C++, Java, Python
+- 🌱 I’m currently trying to learn to code
 - 👦 I'm currently a student
 
 <!---
